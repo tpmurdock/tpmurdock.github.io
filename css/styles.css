@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: steelblue;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-color: darkblue;    
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+main {
+    color: darkslategray;
+    height: 100%;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: darkblue;
+    text-align: center;
+    margin-left: -20%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    width: 100%;
+}
+
+h1{
+    padding-left: 10%;
+    text-shadow: 1px 1px 1px tan;
+}
+h2 {
+    color: crimson;
+}
+img {
+    max-width: 35%;
+    float: right;
+}
